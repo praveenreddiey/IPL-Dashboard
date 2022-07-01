@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5824b1f-7eb7-4be7-9fb0-e6c03f6f3709" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/IPLDashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/Repository/MatchRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/Repository/MatchRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/controller/TeamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/controller/TeamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/data/MatchItemProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/data/MatchItemProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/model/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/model/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2B2E8aT8xfXLulZKk0aIoOdshFX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.IPLDashboard">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabrains.ipldashboard.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javabrains.ipldashboard.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPL Dashboard" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.javabrains.ipldashboard.IPLDashboard" />
+      <module name="ipl dashboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javabrains.ipldashboard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPLDashboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabrains.ipldashboard.IPLDashboard" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javabrains.ipldashboard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoApplication" />
+      <item itemvalue="Application.IPL Dashboard" />
+      <item itemvalue="Application.IPLDashboard" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IPLDashboard" />
+        <item itemvalue="Application.IPL Dashboard" />
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5824b1f-7eb7-4be7-9fb0-e6c03f6f3709" name="Changes" comment="" />
+      <created>1656095626341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656095626341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/data/JobCompletionNotificationListener.java</url>
+          <line>66</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

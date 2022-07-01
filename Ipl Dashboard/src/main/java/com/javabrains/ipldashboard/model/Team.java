@@ -18,6 +18,7 @@ public class Team {
     private String teamName;
     private long totalMatches;
     private long totalWins;
+
     @Transient
     private List<Match> matches;
 

@@ -24,10 +24,10 @@ public class MatchItemProcessor implements ItemProcessor<MatchInput, Match> {
         String firstInningsTeam,secondInningsTeam;
         if("bat".equals(matchInput.getToss_decision())){
             firstInningsTeam=matchInput.getToss_winner();
-            secondInningsTeam=matchInput.getToss_winner().equals(matchInput.getTeam1())?matchInput.getTeam2():matchInput.getTeam2();
+            secondInningsTeam=matchInput.getToss_winner().equals(matchInput.getTeam1())?matchInput.getTeam2():matchInput.getTeam1();
         }else{
             secondInningsTeam=matchInput.getToss_winner();
-            firstInningsTeam=matchInput.getToss_winner().equals(matchInput.getTeam1())?matchInput.getTeam2():matchInput.getTeam2();
+            firstInningsTeam=matchInput.getToss_winner().equals(matchInput.getTeam1())?matchInput.getTeam2():matchInput.getTeam1();
         }
         match.setTeam1(firstInningsTeam);
         match.setTeam2(secondInningsTeam);
