@@ -18,7 +18,10 @@ public interface MatchRepository extends JpaRepository<Match,Long> {
 //            String team2,LocalDate date3, LocalDate date4);
 
     @Query("select m from Match m where (m.team1 = :teamName or m.team2= :teamName) and m.date between :dateStart and :dateEnd order by date desc")
-    List<Match> getMatchesByTeamBetweenDates(@Param("teamName") String teamName,@Param("dateStart") LocalDate dateStart,@Param("dateEnd") LocalDate dateEnd);
+    List<Match> getMatchesByTeamBetweenDates(
+            @Param("teamName") String teamName,
+            @Param("dateStart") LocalDate dateStart,
+            @Param("dateEnd") LocalDate dateEnd);
 
     public default List<Match> findLatestMatchesByTeam(String team1, int count){
         Pageable pageable=PageRequest.of(0, 3);

@@ -28,10 +28,14 @@ public class TeamController {
         return team;
     }
     @GetMapping("/{teamName}/matches")
-    public List<Match> getMatches(@PathVariable String teamName, @RequestParam int year){
+    public List<Match> getMatches(
+            @PathVariable String teamName,
+            @RequestParam int year){
         LocalDate firstDate=LocalDate.of(year,1,1);
         LocalDate lastDate=LocalDate.of(year+1,1,1);
         return matchRepository.getMatchesByTeamBetweenDates(
-                teamName,firstDate,lastDate);
+                teamName,
+                firstDate,
+                lastDate);
     }
 }
