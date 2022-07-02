@@ -6,12 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c5824b1f-7eb7-4be7-9fb0-e6c03f6f3709" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/components/MatchDetailCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/components/MatchDetailCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/components/MatchSmallCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/components/MatchSmallCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/pages/TeamPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/pages/TeamPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/Repository/MatchRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/Repository/MatchRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/controller/TeamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/controller/TeamController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
