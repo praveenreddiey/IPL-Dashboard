@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5824b1f-7eb7-4be7-9fb0-e6c03f6f3709" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/Repository/MatchRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/Repository/MatchRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/controller/TeamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/main/java/com/javabrains/ipldashboard/controller/TeamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/pages/MatchPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ipl Dashboard/src/react-module/src/pages/MatchPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
